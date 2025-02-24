@@ -105,8 +105,6 @@
             return;
         }
 
-        
-
         alert("PIN set successfully!");
         modal.classList.add('hidden');
     });
